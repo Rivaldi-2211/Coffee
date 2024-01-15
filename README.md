@@ -1,2 +1,2 @@
 # Coffee
-Coffee
+Web site coffee shop
